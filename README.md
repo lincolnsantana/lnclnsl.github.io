@@ -11,4 +11,4 @@ Me chamo Lincoln, estudo computação e faço alguns códigos
 - __Universidade:__ Atualmente estou cursando o sétimo período do Curso de Licenciatura em Computação pelo Instituto Federal de Ciência e Tecnologia da Bahia (IFBA - Campus Jacobina)
 
 #### Carreira
-Atualmente estou fazendo alguns serviços como _freelancer_
+Atualmente estou trabalhando como _freelancer_
