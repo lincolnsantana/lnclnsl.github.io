@@ -1,0 +1,13 @@
+h1, h2, ul, p{
+    font-family: Consolas, 'Courier New', monospace;
+    
+}
+
+body{
+    background-color: #f30342;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+}
+
+
